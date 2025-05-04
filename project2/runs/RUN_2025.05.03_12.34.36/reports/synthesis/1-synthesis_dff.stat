@@ -1,0 +1,24 @@
+
+55. Printing statistics.
+
+=== project2 ===
+
+   Number of wires:                259
+   Number of wire bits:            282
+   Number of public wires:           4
+   Number of public wire bits:      27
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                263
+     $_ANDNOT_                      90
+     $_AND_                          5
+     $_MUX_                         15
+     $_NAND_                        23
+     $_NOR_                         11
+     $_NOT_                         17
+     $_ORNOT_                        7
+     $_OR_                          46
+     $_XNOR_                        12
+     $_XOR_                         37
+
